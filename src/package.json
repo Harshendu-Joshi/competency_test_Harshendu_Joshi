@@ -1,0 +1,22 @@
+{
+  "name": "dxc_exercise",
+  "version": "1.0.0",
+  "description": "Part of interview process for dxc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshendu-Joshi/dxcExcersise.git"
+  },
+  "keywords": [
+    "dxcTest"
+  ],
+  "author": "Harshendu Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harshendu-Joshi/dxcExcersise/issues"
+  },
+  "homepage": "https://github.com/Harshendu-Joshi/dxcExcersise#readme"
+}
